@@ -9,4 +9,4 @@ I identified an opportunity while working a weekend shift to quickly respond to 
 [See the project in print here (PDF).][print-pdf]
 
 [project-link]: https://www.washingtonpost.com/graphics/2020/local/white-house-fence-protest-signs-photos/
-[print-pdf]: /assets/A14-15_M2_EZ_DAILY_20200611.pdf
+[print-pdf]: /protest-wall-print.pdf
