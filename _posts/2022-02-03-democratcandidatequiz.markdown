@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Democratic candidates quiz"
+title:  "Welcome to Jekyll!"
 date:   2022-02-03 21:24:22 -0500
 categories: jekyll update
 ---
