@@ -3,6 +3,8 @@ layout: post
 title:  "Stimulus check calculator"
 date:   2020-04-02 21:24:22 -0500
 categories: jekyll update
+collection: portfolio
+
 
 image:
   path: /images/stimulus-check-calculator.png
