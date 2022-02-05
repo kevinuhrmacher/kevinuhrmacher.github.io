@@ -4,8 +4,8 @@ title:  "A gallery of pain and protest"
 date:   2020-06-10 21:24:22 -0500
 
 image:
-  path: /images/protest-signs-fence.jpg
-  thumbnail: /images/protest-signs-fence.jpg
+  path: /images/protest-signs-fence.png
+  thumbnail: /images/protest-signs-fence.png
   caption: ""
 
 author:
