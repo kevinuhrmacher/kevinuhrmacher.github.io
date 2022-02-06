@@ -3,10 +3,10 @@ layout: post
 title:  "Democratic candidates quiz"
 date:   2020-02-03 21:24:22 -0500
 
-# image:
-#   path: /images/minigolf-promo.jpg
-#   thumbnail: /images/minigolf-promo.jpg
-#   caption: ""
+image:
+  path:
+  thumbnail: /images/policy-quiz-thumb.jpg
+  caption: ""
 
 author:
   name: Washington Post

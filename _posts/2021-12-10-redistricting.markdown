@@ -3,6 +3,9 @@ layout: post
 title:  "Redistricting"
 date:   2022-01-10 21:24:22 -0500
 
+image:
+  thumbnail: /images/sig-redistricting-explorer-feb5.jpg
+
 author:
   name: Washington Post
   twitter: washingtonpost

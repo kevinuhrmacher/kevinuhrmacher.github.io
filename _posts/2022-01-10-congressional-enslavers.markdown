@@ -3,10 +3,10 @@ layout: post
 title:  "Database of U.S. lawmakers who were slaveholders"
 date:   2022-01-10 21:24:22 -0500
 
-# image:
-#   path: /images/protest-signs-fence.png
-#   thumbnail: /images/protest-signs-fence.png
-#   caption: ""
+image:
+  path: 
+  thumbnail: /images/congress-enslavers-thumb.jpg
+  caption: ""
 
 author:
   name: Washington Post

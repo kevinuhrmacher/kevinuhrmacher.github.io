@@ -3,11 +3,10 @@ layout: post
 title:  "2020 presidential election exit polls"
 date:   2020-11-08 21:24:22 -0500
 
-
-# image:
-#   path: /images/stimulus-check-calculator.png
-#   thumbnail: /images/stimulus-check-calculator.png
-#   caption: ""
+image:
+  path: 
+  thumbnail: /images/2020-exit-polls-thumb.jpg
+  caption: ""
 
 author:
   name: Washington Post
