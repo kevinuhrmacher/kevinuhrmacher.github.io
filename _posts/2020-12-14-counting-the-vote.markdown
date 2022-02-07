@@ -5,7 +5,7 @@ date:   2020-12-14 21:24:22 -0500
 
 image:
   path: 
-  thumbnail: /images/
+  thumbnail: /images/2020-electoral-vote-count.jpg
   caption: ""
 
 author:
