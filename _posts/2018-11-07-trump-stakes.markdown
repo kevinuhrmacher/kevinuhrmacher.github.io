@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Congress’s body language during Trump’s first address"
-date:   2017-03-01 21:24:22 -0500
+title:  "What split control of Congress means for Trump"
+date:   2018-11-07 21:24:22 -0500
 
 image:
   path: 
-  thumbnail: /images/trump-congress-address-thumb.jpg
+  thumbnail: /images/trump-stakes-thumb.jpg
   caption: ""
 
 author:
@@ -20,4 +20,4 @@ author:
 [See the story.][project-link]
 
 
-[project-link]: https://www.washingtonpost.com/graphics/politics/trump-first-joint-session/
+[project-link]: https://www.washingtonpost.com/graphics/2018/politics/congress-election-stakes/

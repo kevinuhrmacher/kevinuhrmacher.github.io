@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stimulus check calculator"
+title:  "Calculate your coronavirus stimulus check amount"
 date:   2020-04-02 21:24:22 -0500
 categories: jekyll update
 collection: portfolio

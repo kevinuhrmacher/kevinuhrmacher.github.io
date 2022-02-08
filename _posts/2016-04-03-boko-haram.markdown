@@ -14,10 +14,11 @@ author:
 
 ---
 
-![image-right]({{ '/images/clinton-trump-debate-1-detail.jpg' | absolute_url }}){: .align-right}
+<!-- ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right} -->
+
+This story [shed light on an ISIS-affiliated group][project-link] that was waging a deadly campaign in Africa as the Islamic State’s attacks in Europe captured the world’s attention. I am proud that it pushed my mapping skills and focused on a part of the world that gets less attention in coverage.
+
+[See the project here.][project-link]
 
 
-![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right}
-
-
-[project-link]: https://www.washingtonpost.com/politics/interactive/redistricting-tracker-map/
+[project-link]: https://www.washingtonpost.com/graphics/world/nigeria-boko-haram/

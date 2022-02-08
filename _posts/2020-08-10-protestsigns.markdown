@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A gallery of pain and protest"
+title:  "A gallery of pain and protest: Post-George Floyd protest signs"
 date:   2020-06-10 21:24:22 -0500
 
 image:

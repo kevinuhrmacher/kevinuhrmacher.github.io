@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Clinton-Trump debate body language"
+title:  "What two body language experts saw at a presidential debate"
 date:   2016-10-15 21:24:22 -0500
 
 image:
@@ -27,7 +27,7 @@ With the benefit of a couple of weeks to plan, I was able to contact several bod
 
 
 
-![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right}
+<!-- ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right} -->
 
 
-[project-link]: https://www.washingtonpost.com/politics/interactive/redistricting-tracker-map/
+[project-link]: https://www.washingtonpost.com/graphics/politics/2016-election/second-debate-body-language/

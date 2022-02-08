@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gerrymander Invitational game"
+title:  "Play a mini-golf course of congressional districts"
 date:   2022-01-10 21:24:22 -0500
 
 image:
