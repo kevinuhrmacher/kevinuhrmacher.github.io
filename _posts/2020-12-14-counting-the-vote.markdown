@@ -15,15 +15,11 @@ author:
 
 ---
 
-![no-alignment]({{ '/images/appointee-tracker-promo.jpg' | absolute_url }}){: .align-right}
 
-#### Tracking the 2020 electoral college vote
+#### [Tracking the 2020 electoral college vote][ev-link]
 
-![no-alignment]({{ '/images/appointee-tracker-promo.jpg' | absolute_url }}){: .align-right}
-
-#### Which Republicans objected to the electoral college vote
-
-[See the Trump appointee tracker.][project-link-trump]
+#### [Which Republicans objected to the electoral college vote][objection-link]
 
 
-[project-link]: https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/
+[ev-link]: https://www.washingtonpost.com/politics/interactive/2020/electoral-college-vote-tracker/
+[objection-link]: https://www.washingtonpost.com/graphics/2021/politics/congress-electoral-college-count-tracker/

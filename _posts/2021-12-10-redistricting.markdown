@@ -13,15 +13,14 @@ author:
 
 ---
 
-Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
-
 ![image-right]({{ '/images/sig-redistricting-explorer-feb5.jpg' | absolute_url }}){: .align-right}
 
-Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+Redistricting was a major priority during 2021 for our team. Reporters Harry Stevens and Adrian Blanco created a series of diagnostic scripts that would be able to quickly test maps and determine which party would benefit.
 
-Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+As a team, we published two guides to redistricting: An [FAQ about how each state goes about redistricting][faq-link] and a [tracker of finalized congressional maps.][project-link]
 
 ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right}
 
 
+[faq-link]: https://www.washingtonpost.com/politics/interactive/2021/redistricting-faq/
 [project-link]: https://www.washingtonpost.com/politics/interactive/redistricting-tracker-map/

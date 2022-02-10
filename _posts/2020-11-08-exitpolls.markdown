@@ -15,8 +15,9 @@ author:
 
 ---
 
+![image-center]({{ '/images/2020-exit-polls-thumb.jpg' | absolute_url }}){: .align-center}
 
-Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+I was tasked with editing our graphics for the New Hampshire primary soon after returning from the Iowa Caucuses. Our priority was to create a page to display speedy exit poll results on Election Night to complement our results pages. In coordination with the polling and engineering teams, Chris Alcantara built a page that gave readers an early look at which candidates were performing well and streamlined the functionality to point out which voter groups were swinging the result. The “head peeking over a fence” visuals introduced an element of delight that performed well on social media and also conveyed the imprecise nature of exit polling. The page also leveraged text analysis produced by the polling team to help readers interpret the visuals. We assembled a team [to build out a suite of pages in November.][project-link]
 
 [See the national results here.][project-link]
 

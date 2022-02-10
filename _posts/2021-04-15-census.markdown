@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2020 Census: How America’s demographics are changing"
-date:   2022-01-10 21:24:22 -0500
+date:   2021-04-15 21:24:22 -0500
 
 image:
   path: 
@@ -15,32 +15,27 @@ author:
 
 ---
 
-Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
-
 ![no-alignment]({{ '/images/census-ranks-hero.jpg' | absolute_url }})
 
-#### How America’s ‘places to be’ have shifted over the past 100 years
+#### [How America’s ‘places to be’ have shifted over the past 100 years][ranks-link]
 
 
 ![no-alignment]({{ '/images/census-cartogram-hero.jpg' | absolute_url }})
 
-#### 2020 Census shows U.S. population grew at slowest pace since the 1930s
+#### [2020 Census shows U.S. population grew at slowest pace since the 1930s][slow-growth-link]
 
 
 ![no-alignment]({{ '/images/census-diversity-hero.jpg' | absolute_url }})
 
-#### America’s demographics are changing. How has your county shifted?
-
-![image-center]({{ '/images/census-diversity-detail.jpg' | absolute_url }})
-
-
+#### [America’s demographics are changing. How has your county shifted?][demographics-link]
 
 
 ![no-alignment]({{ '/images/census-reapportionment.jpg' | absolute_url }})
 
-#### Why your state might lose or gain clout in Congress after the census is released
+#### [Why your state might lose or gain clout in Congress after the census is released][apportionment-link]
 
 
-
-[project-link]: https://www.washingtonpost.com/graphics/2020/local/white-house-fence-protest-signs-photos/
-[print-pdf]: /protest-wall-print.pdf
+[ranks-link]: https://www.washingtonpost.com/nation/interactive/2021/census-population-changes/
+[slow-growth-link]: https://www.washingtonpost.com/dc-md-va/interactive/2021/2020-census-us-population-results/
+[demographics-link]: https://www.washingtonpost.com/nation/interactive/2021/census-maps-race-population-demographics/
+[apportionment-link]: https://www.washingtonpost.com/politics/interactive/2021/how-apportionment-works/

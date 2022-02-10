@@ -17,11 +17,11 @@ author:
 
 ![no-alignment]({{ '/images/appointee-tracker-promo.jpg' | absolute_url }}){: .align-right}
 
-I edited the next version of our presidential appointee tracker, working with reporter Harry Stevens to improve the interface as a new president came into office. Working with Partnership for Public Service, we tracked presidential appointments at the Cabinet and sub-Cabinet levels.
+I edited the next version of our presidential appointee tracker, working with reporter Harry Stevens to improve the interface as a new president came into office. Working with Partnership for Public Service, we tracked presidential appointments at the Cabinet and sub-Cabinet levels. Adrian Blanco added a chart for historical context.
 
 [See the Biden appointee tracker.][project-link]
 
-Kevin Schaul and I had already worked four years on a Trump appointee tracker after the 2016 election.  
+Kevin Schaul and I worked four years on a Trump appointee tracker after the 2016 election.  
 
 [See the Trump appointee tracker.][project-link-trump]
 
