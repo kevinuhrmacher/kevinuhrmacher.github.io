@@ -17,7 +17,7 @@ author:
 
 ![no-alignment]({{ '/images/trump-congress-address-hero.jpg' | absolute_url }}){: .align-right}
 
-[See the story.][project-link]
+[View the story.][project-link]
 
 
 [project-link]: https://www.washingtonpost.com/graphics/politics/trump-first-joint-session/

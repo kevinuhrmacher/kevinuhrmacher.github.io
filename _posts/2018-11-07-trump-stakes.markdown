@@ -15,8 +15,6 @@ author:
 
 ---
 
-![no-alignment]({{ '/images/trump-congress-address-hero.jpg' | absolute_url }}){: .align-right}
-
 [See the story.][project-link]
 
 

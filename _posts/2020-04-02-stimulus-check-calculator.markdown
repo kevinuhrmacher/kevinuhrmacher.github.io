@@ -1,15 +1,18 @@
 ---
 layout: post
 title:  "Calculate your coronavirus stimulus check amount"
-date:   2020-04-02 21:24:22 -0500
-categories: jekyll update
-collection: portfolio
+date:   2020-03-26 21:24:22 -0500
 
 
 image:
-  path: /images/stimulus-check-calculator.png
+  path:
   thumbnail: /images/stimulus-check-calculator.png
   caption: ""
+
+author:
+  name: Washington Post
+  twitter: washingtonpost
+  picture: "/images/wp.png"
 
 ---
 

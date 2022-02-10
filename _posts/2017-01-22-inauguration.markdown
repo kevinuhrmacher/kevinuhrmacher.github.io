@@ -15,7 +15,8 @@ author:
 
 ---
 
-We published nine surveys covering more than 85 policy questions as part of a year-long dive into the 2020 candidates’ stances on the issues. Using this trove of answers from the candidates, we also created a quiz for readers to see which candidates agrees with them most. My role in this project involved generating the initial idea and working with subject-matter experts in the newsroom to come up with the best questions.
+![image-center]({{ '/images/2017-inauguration-weekend-thumb.jpg' | absolute_url }}){: .align-center}
 
-[project-link]: 
-[print-pdf]: 
+[Experience the story here.][project-link]
+
+[project-link]: https://www.washingtonpost.com/graphics/national/2017-inauguration-sights-and-sounds/
