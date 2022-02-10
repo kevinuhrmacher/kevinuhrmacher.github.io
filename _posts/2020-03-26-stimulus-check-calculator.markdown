@@ -5,7 +5,7 @@ date:   2020-03-26 21:24:22 -0500
 
 
 image:
-  path:
+  path: /images/hero-blank.jpg
   thumbnail: /images/stimulus-check-calculator.png
   caption: ""
 

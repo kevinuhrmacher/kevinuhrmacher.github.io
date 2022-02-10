@@ -4,7 +4,7 @@ title:  "Counting the 2020 electoral college vote"
 date:   2020-12-14 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/2020-electoral-vote-count.jpg
   caption: ""
 

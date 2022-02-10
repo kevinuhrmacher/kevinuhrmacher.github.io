@@ -4,6 +4,7 @@ title:  "Who was at the infrastructure bill signing at the White House"
 date:   2021-11-16 21:24:22 -0500
 
 image:
+  path: /images/hero-blank.jpg
   thumbnail: /images/bipartisan-infrastructure-thumb.jpg
 
 author:

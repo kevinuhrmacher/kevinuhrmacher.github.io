@@ -4,7 +4,7 @@ title:  "Congress’s body language during Trump’s first address"
 date:   2017-03-01 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/trump-congress-address-thumb.jpg
   caption: ""
 

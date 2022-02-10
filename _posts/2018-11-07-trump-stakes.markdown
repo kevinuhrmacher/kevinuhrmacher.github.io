@@ -4,7 +4,7 @@ title:  "What split control of Congress means for Trump"
 date:   2018-11-07 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/trump-stakes-thumb.jpg
   caption: ""
 

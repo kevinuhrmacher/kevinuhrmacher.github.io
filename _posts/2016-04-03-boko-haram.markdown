@@ -4,7 +4,7 @@ title:  "The brutal toll of Boko Haram’s attacks on civilians"
 date:   2016-04-03 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/boko-haram-thumb.jpg
 
 author:

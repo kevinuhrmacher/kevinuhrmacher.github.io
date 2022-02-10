@@ -4,7 +4,7 @@ title:  "A divided nation meets: Scenes from inauguration weekend"
 date:   2017-01-22 21:24:22 -0500
 
 image:
-  path:
+  path: /images/hero-blank.jpg
   thumbnail: /images/2017-inauguration-weekend-thumb.jpg
   caption: ""
 

@@ -4,7 +4,7 @@ title:  "Tracking presidential appointees for key government positions"
 date:   2020-12-18 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/appointee-tracker-thumb.jpg
   caption: ""
 

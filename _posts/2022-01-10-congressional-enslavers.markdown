@@ -4,7 +4,7 @@ title:  "Database of congressmen who once enslaved Black people"
 date:   2022-01-10 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/congress-enslavers-thumb.jpg
   caption: ""
 

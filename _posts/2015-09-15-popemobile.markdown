@@ -4,7 +4,7 @@ title:  "An illustrated 215-year history of the popemobile"
 date:   2015-09-25 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/popemobile-thumb.jpg
 
 author:

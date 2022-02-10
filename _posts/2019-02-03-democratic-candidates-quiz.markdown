@@ -4,7 +4,7 @@ title:  "Surveys and quiz: Where do 2020 Democrats stand on issues"
 date:   2020-02-03 21:24:22 -0500
 
 image:
-  path:
+  path: /images/hero-blank.jpg
   thumbnail: /images/policy-quiz-thumb.jpg
   caption: ""
 

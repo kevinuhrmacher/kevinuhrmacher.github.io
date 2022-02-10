@@ -4,7 +4,7 @@ title:  "These former Obama strongholds sealed the election for Trump"
 date:   2016-11-09 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/2016-obama-trump-counties-thumb.jpg
   caption: ""
 

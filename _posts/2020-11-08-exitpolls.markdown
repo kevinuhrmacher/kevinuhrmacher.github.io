@@ -4,7 +4,7 @@ title:  "Exit polls show how Americans voted in 2020"
 date:   2020-11-08 21:24:22 -0500
 
 image:
-  path: 
+  path: /images/hero-blank.jpg
   thumbnail: /images/2020-exit-polls-thumb.jpg
   caption: ""
 

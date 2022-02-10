@@ -4,6 +4,7 @@ title:  "How redistricting is shaping the 2022 U.S. House map"
 date:   2022-01-10 21:24:22 -0500
 
 image:
+  path: /images/hero-blank.jpg
   thumbnail: /images/sig-redistricting-explorer-feb5.jpg
 
 author:
