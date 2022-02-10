@@ -18,16 +18,16 @@ author:
 
 Following the first two debates, assignment editor Lazaro Gamio and I worked together to visualize how the debates unfolded, focusing on the facial expressions and body language of the candidates.
 
-After the first, Gamio experimented with Python Image Library to overlay images of Clinton and Trump. We worked together to plan out different visualizations showing how active or still the candidates were during contentious exchanges.
+After the first, Gamio experimented with Python Image Library to overlay images of Clinton and Trump. We worked together to plan out visualizations showing how active or still the candidates were during contentious exchanges.
 
-While this project featured an interesting visual, we felt it lacked sufficient analysis about Trump’s and Clinton’s behavior during the debate. We decided to look for ways to build upon it for the second debate.
+While [this project][first-debate-link] featured an interesting visual, we felt it lacked sufficient analysis about Trump’s and Clinton’s behavior during the debate. We decided to look for ways to build upon it for the second debate.
 
 With the benefit of a couple of weeks to plan, I was able to contact several body language experts who had previously done this type of analysis on presidential debates. I enlisted them in a running conversation during the town-hall style debate that gave me a trove of analysis to pair with some terrific photo visualization by Laz in the resulting piece, “What two body language experts saw at the second presidential debate“.
 
-
+[View the story here.][project-link]
 
 
 <!-- ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right} -->
 
-
+[first-debate-link]: https://www.washingtonpost.com/graphics/politics/2016-election/first-debate-facial-expressions/
 [project-link]: https://www.washingtonpost.com/graphics/politics/2016-election/second-debate-body-language/
