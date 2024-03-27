@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Where abortion is legal, banned or under threat"
+date:   2022-06-24 21:24:22 -0500
+
+image:
+  path: /images/hero-blank.jpg
+  thumbnail: /images/abortion.jpg
+  caption: ""
+
+image.thumbnail: /images/abortion.jpg
+
+author:
+  name: Washington Post
+  twitter: washingtonpost
+  picture: "/images/wp.png"
+
+---
+
+![no-alignment]({{ '/images/abortion.jpg' | absolute_url }})
+
+Ahead of the Supreme Court’s Dobbs decision, I proposed a tracker of state abortion laws that would answer the question I assumed most would have if Roe v. Wade was struck down: Which states will ban abortion next? The collaborative effort paired Graphics reporters with Caroline Kitchener, our expert on this line of coverage. It would become a part of The Post’s Pulitzer Prize-winning entry for National Reporting in 2023.
+
+[See the tracker here.][project-link]
+
+We also prepared [a callout for readers to answer in the aftermath of the decision][project-link-2] that drew the most responses for any callout The Post had ever done.
+
+[project-link]: https://www.washingtonpost.com/politics/2022/06/24/abortion-state-laws-criminalization-roe/
+
+[project-link-2]: https://www.washingtonpost.com/nation/interactive/2022/abortion-ruling-reactions/

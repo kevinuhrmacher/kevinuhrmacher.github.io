@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Why few people dare eat the boss’s M&Ms"
+date:   2017-09-25 21:24:22 -0500
+
+image:
+  path: /images/hero-blank.jpg
+  thumbnail: /images/candyjar.jpg
+
+author:
+  name: Washington Post
+  twitter: washingtonpost
+  picture: "/images/wp.png"
+
+---
+
+Election years are stressful, but a little candy can lighten the tension. I kept a candy jar at my desk and Bonnie Berkowitz and I decided to do a story about the psychology behind seeing candy sitting out versus hiding it away. It was a fun trick to play on our team and a great Valentine’s Day read.
+
+[See the project here.][project-link]
+
+
+![image-center]({{ '/images/candyjar-scatter.png' | absolute_url }}){: .align-center}
+
+
+
+
+<!-- ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right} -->
+
+[project-link]: https://www.washingtonpost.com/graphics/health/candy-dish/

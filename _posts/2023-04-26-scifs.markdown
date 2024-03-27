@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Inside the fortified rooms securing U.S. secrets"
+date:   2023-04-26 21:24:22 -0500
+
+image:
+  path: /images/hero-blank.jpg
+  thumbnail: /images/scifs.jpg
+
+author:
+  name: Washington Post
+  twitter: washingtonpost
+  picture: "/images/wp.png"
+
+---
+
+![image-center]({{ '/images/scifs-full.png' | absolute_url }}){: .align-center}
+
+As classified documents continued to turn up at the residences and offices of former presidents and other officials, we efforted this piece about the way classified information is supposed to be handled, according to the federal government.
+
+This involved managing the relationship with editors and reporters outside of our team and exploring the best way to tell this story visually.
+
+[See the project here.][project-link]
+
+<!-- ![no-alignment]({{ '/images/redistricting-texas.jpg' | absolute_url }}){: .align-right} -->
+
+[project-link]: https://www.washingtonpost.com/national-security/interactive/2023/scif-room-meaning-classified/

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "How election modeling works"
+date:   2022-05-24 21:24:22 -0500
+
+image:
+  path: /images/hero-blank.jpg
+  thumbnail: /images/voteland-modeling.jpg
+  caption: ""
+
+image.thumbnail: /images/voteland-modeling.jpg
+
+author:
+  name: Washington Post
+  twitter: washingtonpost
+  picture: "/images/wp.png"
+
+---
+
+![no-alignment]({{ '/images/voteland-modeling.jpg' | absolute_url }})
+
+
+[See the story here.][project-link]
+
+[project-link]: https://www.washingtonpost.com/elections/interactive/2022/how-election-models-work/
