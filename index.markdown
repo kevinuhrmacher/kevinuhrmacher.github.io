@@ -4,7 +4,7 @@
 
 layout: home
 entries_layout: grid
-posts_limit: 27
+posts_limit: 35
 show_excerpts: false
 
 ---
